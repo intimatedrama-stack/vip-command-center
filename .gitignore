@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+service-account*.json
+google_cookies.json
+cookies.json
+ChromeLoginData.db
+passwords.txt
+# Sessions / local
+.profiles/
+venv/
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+.dist/
+dist/
+build/
+.next/
+coverage/
+*.pyc
+
