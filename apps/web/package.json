@@ -1,0 +1,14 @@
+{
+  "name": "vip-command-center-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@supabase/supabase-js": "latest"
+  }
+}
